@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orivera0508
-- 👀 I’m interested in programming, video games, mobile apps and website development, crypto.
-- 🌱 I’m currently learning C#, Xamarin, React.Js
-- 💞️ I’m looking to collaborate on projects involving video games, mobile apps and website development, crypto.
+- 👀 I’m interested in Blender, Daz Studio, Substance Painter.
+- 🌱 I’m currently working on my Azure Devops Certification
+- 💞️ I’m looking to collaborate on projects involving 3d Animation, Automation and Tools for Rendering.
 - 📫 How to reach me o.rivera0508@gmail.com
 
 <!---
